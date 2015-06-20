@@ -1,0 +1,23 @@
+{
+  "version": "1.0.0",
+  "name": "Deedr",
+  "launch_path": "/index.html",
+  "description": "Something good will happen!",
+
+  "developer": {
+    "name": "Rui Araújo",
+    "url": "www.ruiaraujo.org"
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "en",
+  "permissions": {
+  },
+  "locales": {
+    "en": {
+      "name": "Deedr",
+      "description": "Something good will happen!"
+    }
+  }
+}

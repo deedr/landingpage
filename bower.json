@@ -1,0 +1,26 @@
+{
+  "name": "deedr",
+  "version": "1.0.0",
+  "homepage": "",
+  "authors": [
+    "Rui Araújo <ruka.araujo@gmail.com>"
+  ],
+  "description": "Deedr landing page",
+  "keywords": [
+    "deeds",
+    "charities"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap": "3.3.4",
+    "components-font-awesome": "~4.3.0"
+  }
+}
